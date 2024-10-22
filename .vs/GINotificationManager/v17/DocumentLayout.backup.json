@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\ginotificationmanager\\tasks\\dispatchnotificagitask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|solutionrelative:ginotificationmanager\\tasks\\dispatchnotificagitask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\ginotificationmanager\\services\\queuedhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|solutionrelative:ginotificationmanager\\services\\queuedhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\ginotificationmanager\\tasks\\cambiostatotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|solutionrelative:ginotificationmanager\\tasks\\cambiostatotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F80E27D-8CF6-4AFF-9B98-BF2D53673D9C}|DBQueue\\DBQueue.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\dbqueue\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F80E27D-8CF6-4AFF-9B98-BF2D53673D9C}|DBQueue\\DBQueue.csproj|solutionrelative:dbqueue\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\ginotificationmanager\\tasks\\scartanotificatask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|solutionrelative:ginotificationmanager\\tasks\\scartanotificatask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F80E27D-8CF6-4AFF-9B98-BF2D53673D9C}|DBQueue\\DBQueue.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\dbqueue\\queueprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F80E27D-8CF6-4AFF-9B98-BF2D53673D9C}|DBQueue\\DBQueue.csproj|solutionrelative:dbqueue\\queueprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\ginotificationmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|solutionrelative:ginotificationmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\ginotificationmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|solutionrelative:ginotificationmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F80E27D-8CF6-4AFF-9B98-BF2D53673D9C}|DBQueue\\DBQueue.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\dbqueue\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F80E27D-8CF6-4AFF-9B98-BF2D53673D9C}|DBQueue\\DBQueue.csproj|solutionrelative:dbqueue\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\ginotificationmanager\\controllers\\notifichegidispatchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|solutionrelative:ginotificationmanager\\controllers\\notifichegidispatchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\ginotificationmanager\\model\\notificagisingola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|solutionrelative:ginotificationmanager\\model\\notificagisingola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\ginotificationmanager\\model\\notificagi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|solutionrelative:ginotificationmanager\\model\\notificagi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\ginotificationmanager\\ginotificationmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|solutionrelative:ginotificationmanager\\ginotificationmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\ginotificationmanager\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|solutionrelative:ginotificationmanager\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|c:\\users\\l.maddalena\\source\\repos\\ginotificationmanager\\ginotificationmanager\\ginotificationmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{38B84275-5A0D-427D-ADC7-2455672C976D}|GINotificationManager\\GINotificationManager.csproj|solutionrelative:ginotificationmanager\\ginotificationmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Program.cs",
+              "RelativeDocumentMoniker": "GINotificationManager\\Program.cs",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Program.cs",
+              "RelativeToolTip": "GINotificationManager\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwDYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:03:05.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\appsettings.json",
+              "RelativeDocumentMoniker": "GINotificationManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\appsettings.json",
+              "RelativeToolTip": "GINotificationManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T14:19:34.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consumer.cs",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\DBQueue\\Consumer.cs",
+              "RelativeDocumentMoniker": "DBQueue\\Consumer.cs",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\DBQueue\\Consumer.cs",
+              "RelativeToolTip": "DBQueue\\Consumer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAApwDMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:46:52.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DispatchNotificaGITask.cs",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Tasks\\DispatchNotificaGITask.cs",
+              "RelativeDocumentMoniker": "GINotificationManager\\Tasks\\DispatchNotificaGITask.cs",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Tasks\\DispatchNotificaGITask.cs*",
+              "RelativeToolTip": "GINotificationManager\\Tasks\\DispatchNotificaGITask.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowC0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:59:23.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueuedHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Services\\QueuedHostedService.cs",
+              "RelativeDocumentMoniker": "GINotificationManager\\Services\\QueuedHostedService.cs",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Services\\QueuedHostedService.cs",
+              "RelativeToolTip": "GINotificationManager\\Services\\QueuedHostedService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:46:09.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CambioStatoTask.cs",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Tasks\\CambioStatoTask.cs",
+              "RelativeDocumentMoniker": "GINotificationManager\\Tasks\\CambioStatoTask.cs",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Tasks\\CambioStatoTask.cs",
+              "RelativeToolTip": "GINotificationManager\\Tasks\\CambioStatoTask.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:06:56.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScartaNotificaTask.cs",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Tasks\\ScartaNotificaTask.cs",
+              "RelativeDocumentMoniker": "GINotificationManager\\Tasks\\ScartaNotificaTask.cs",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Tasks\\ScartaNotificaTask.cs",
+              "RelativeToolTip": "GINotificationManager\\Tasks\\ScartaNotificaTask.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:50:38.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueueProvider.cs",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\DBQueue\\QueueProvider.cs",
+              "RelativeDocumentMoniker": "DBQueue\\QueueProvider.cs",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\DBQueue\\QueueProvider.cs",
+              "RelativeToolTip": "DBQueue\\QueueProvider.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAASwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:44:14.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificheGIDispatcherController.cs",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Controllers\\NotificheGIDispatcherController.cs",
+              "RelativeDocumentMoniker": "GINotificationManager\\Controllers\\NotificheGIDispatcherController.cs",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Controllers\\NotificheGIDispatcherController.cs",
+              "RelativeToolTip": "GINotificationManager\\Controllers\\NotificheGIDispatcherController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:01:42.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\DBQueue\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "DBQueue\\Repository\\DataContext.cs",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\DBQueue\\Repository\\DataContext.cs",
+              "RelativeToolTip": "DBQueue\\Repository\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:09:40.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotificaGISingola.cs",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Model\\NotificaGISingola.cs",
+              "RelativeDocumentMoniker": "GINotificationManager\\Model\\NotificaGISingola.cs",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Model\\NotificaGISingola.cs",
+              "RelativeToolTip": "GINotificationManager\\Model\\NotificaGISingola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:25:25.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificaGI.cs",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Model\\NotificaGI.cs",
+              "RelativeDocumentMoniker": "GINotificationManager\\Model\\NotificaGI.cs",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Model\\NotificaGI.cs",
+              "RelativeToolTip": "GINotificationManager\\Model\\NotificaGI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:48:33.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GINotificationManager.csproj",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\GINotificationManager.csproj",
+              "RelativeDocumentMoniker": "GINotificationManager\\GINotificationManager.csproj",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\GINotificationManager.csproj",
+              "RelativeToolTip": "GINotificationManager\\GINotificationManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T12:55:50.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GINotificationManager\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GINotificationManager\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:40:08.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GINotificationManager.http",
+              "DocumentMoniker": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\GINotificationManager.http",
+              "RelativeDocumentMoniker": "GINotificationManager\\GINotificationManager.http",
+              "ToolTip": "C:\\Users\\l.maddalena\\Source\\Repos\\GINotificationManager\\GINotificationManager\\GINotificationManager.http",
+              "RelativeToolTip": "GINotificationManager\\GINotificationManager.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-10T08:24:37.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
